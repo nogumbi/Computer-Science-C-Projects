@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430223054 source:c:\users\edureceptionapk\desktop\mdeniso_nh_201404112_csc1a10_2015_b5\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
